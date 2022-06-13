@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Testing_theory>true</Testing_theory>
+    <Knowledge_of>SDLC and STLC</Knowledge_of>
+    <Work_with_documentation>true</Work_with_documentation>
+    <Practical_exp_in_writing>
+        <Test_cases>true</Test_cases>
+        <Checklist>true</Checklist>
+        <Bug_reports>true</Bug_reports>
+    </Practical_exp_in_writing>
+    <Client_server_architecture>true</Client_server_architecture>
+    <HTTP>
+        <Knowledge_of_structure>true</Knowledge_of_structure>
+        <Request_methods>GET POST PUT HEAD DELETE CONNECT PATCH TRACE OPTIONS</Request_methods>
+        <Status_codes>Understanding the difference</Status_codes>
+    </HTTP>
+    <JSON_and_XML>Structure</JSON_and_XML>
+    <Postman>API testing</Postman>
+    <JavaScript>Autotests API in Postman</JavaScript>
+    <Logs>Removing and reading from the remote server</Logs>
+    <Charles>sniffing http web traffic</Charles>
+    <DevTools>Google Chrome and FireFox</DevTools>
+    <Mobile_testing>
+        <Android_Studio>Practical exp</Android_Studio>
+        <Charles>sniffing mobile traffic</Charles>
+        <ADB>Practical exp</ADB>
+    </Mobile_testing>
+    <Jmeter>Perfomance testing</Jmeter>
+    <SQL>Practical exp in building SQL queries</SQL>
+    <Postgresql>Practical exp</Postgresql>
+    <Git>
+        <GitBash>Linux Terminal commands</GitBash>
+        <GitHub>git(clone add commit push branch merge checkout pull)</GitHub>
+    </Git>
+    <Great_soft_skills>true</Great_soft_skills>
+</root>
